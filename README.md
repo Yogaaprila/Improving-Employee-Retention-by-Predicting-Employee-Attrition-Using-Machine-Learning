@@ -1,4 +1,5 @@
 # Improving Employee Retention by Predicting Employee Attrition Using Machine Learning
+![Alt Link](pictures/employee-retention.png)
 
 ---
 
